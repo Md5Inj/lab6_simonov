@@ -9,7 +9,7 @@
             "command": "g++",
             "args": [
                 "-g",
-                "main.cpp"
+                "task2.cpp"
             ],
             "group": {
                 "kind": "build",
